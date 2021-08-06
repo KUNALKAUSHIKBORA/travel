@@ -11,3 +11,6 @@
 .hello {
 	padding: 5px !important;
 }
+.sidenav li:hover {
+	background-color: teal;
+}
